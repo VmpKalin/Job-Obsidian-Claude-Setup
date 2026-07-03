@@ -1,0 +1,45 @@
+https://www.stepstone.de/FakeLink3
+
+Rapid Data GmbH Unternehmensberatung logo
+Senior Software Engineer (m/f/d)
+Rapid Data GmbH Unternehmensberatung
+Berlin Hybrid
+Permanent contract
+Full Time, Home office possible
+Published: 4 days ago
+50.000€ - 70.000€/year (full-time estimate)
+Verified
+Easy apply
+Rapid Data GmbH Unternehmensberatung logo
+Senior Software Engineer (m/f/d)
+Rapid Data GmbH Unternehmensberatung
+Strong Fit
+Your CV suits the role very well!
+Based on ArturHoloiadCV.pdf
+Poor fit
+Strong fit
+Job Description
+We're looking for a Senior Software Engineer to join our backend team. You'll work on distributed, event-driven systems that power core product functionality — and you'll bring hands-on experience building with AI agents, not just knowing the theory. This is a role for someone who's genuinely excited about what agentic AI can do in a production context.
+
+Your tasks:
+Build and maintain backend services using C# across a distributed architecture
+Design and work with message-driven systems using RabbitMQ
+Architect, build, and ship AI agentic workflows integrated into our core product
+Collaborate with product, data, and platform teams to deliver reliable, well-tested features
+Contribute to engineering standards and help raise the bar for the team
+Your skillset:
+Extensive years of professional backend engineering experience
+Strong C# skills — you're comfortable owning complex backend services end to end
+Practical experience with RabbitMQ or similar message brokers (Kafka, Azure Service Bus, etc.)
+Hands-on experience building AI agentic systems — this is a must, not a nice-to-have
+Solid understanding of distributed systems, async patterns, and event-driven design
+Experience with Azure cloud infrastructure
+Familiarity with LLM orchestration frameworks (LangChain, Semantic Kernel, AutoGen, etc.)
+Prior work on systems that integrate AI into customer-facing workflows
+What we offer:
+Office spaces in Germany (Berlin, Selmsdorf) and Sweden (Örebro) with flexible hybrid work arrangements
+Meaningful work as the market leader in funeral technology
+The opportunity to participate in the technical transformation of a European company
+A small, focused engineering leadership group working on fundamental platform challenge
+Predicted salary
+50.000€ - 70.000€ gross/year(full-time estimate)

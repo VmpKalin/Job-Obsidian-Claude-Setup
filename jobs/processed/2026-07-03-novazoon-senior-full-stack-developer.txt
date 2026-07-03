@@ -1,0 +1,62 @@
+https://www.stepstone.de/FakeLink
+
+NOVAZOON GmbH logo
+Senior Full Stack Developer (m/w/d)
+NOVAZOON GmbH
+Karlsruhe, Stuttgart
+Permanent contract
+Full Time, Home office possible
+Published: 6 hours ago
+65.000€ - 75.000€/year (full-time estimate)
+Verified
+Be an early applicant
+NOVAZOON GmbH logo
+Senior Full Stack Developer (m/w/d)
+NOVAZOON GmbH
+Strong Fit
+Your CV suits the role very well!
+Based on ArturHoloiadCV.pdf
+Poor fit
+Strong fit
+slide number 1slide number 2slide number 3
+Einleitung
+Die NOVAZOON GmbH ist ein dynamisches Team mit Digital-Expert:innen, die Industrieunternehmen bei der zukunftsfähigen Transformation von Geschäftsmodellen, Prozessen und IT begleiten – von der Strategie bis zur Umsetzung. Mit tiefgreifendem technischem Know-how und unternehmerischem Denken entwickeln wir innovative digitale Produkte und Services, um nachhaltiges Wachstum und messbare Ergebnisse zu erzielen.
+
+Für unser Team suchen wir einen erfahrenen Senior Full Stack Developer*in (m/w/d), der mit uns gemeinsam neue digitale Lösungen gestaltet und umsetzt. Wenn Du Lust hast, in einem engagierten Umfeld an spannenden Projekten mitzuwirken und Deine Expertise voll einzubringen, freuen wir uns auf Deine Bewerbung.
+
+Aufgaben
+Du willst nicht nur Code schreiben, sondern Architektur verantworten?
+
+Als Senior Fullstack IT-Application Developer (m/w/d) übernimmst du bei NOVAZOON die technologische Verantwortung für anspruchsvolle Digitalisierungsprojekte unserer Kunden – von der Architekturentscheidung bis zur erfolgreichen Umsetzung. Du konzipierst und entwickelst moderne, skalierbare IT-Lösungen, coachst das Team fachlich und bist Sparringspartner für Kunden bei zentralen Zukunftsthemen.
+
+Was du bei uns bewirken kannst
+
+Architektur verantworten: du übernimmst die technische Verantwortung für Architekturentscheidungen und stellst sicher, dass Performance, Skalierbarkeit und Security von Anfang an mitgedacht werden.
+Lösungen bauen: du konzipierst und implementierst moderne, skalierbare Fullstack-Lösungen mit .NET, Blazor und Angular sowie Azure Cloud Services.
+Team coachen: du reviewst den Code von Kolleg:innen, gibst technisches Feedback und entwickelst Junior-Developer aktiv weiter.
+Kunden beraten: du berätst unsere Kunden auf Augenhöhe zu Cloud-Strategien, KI-Integration und digitalen Transformationsvorhaben.
+Innovation vorantreiben: du bringst neue Technologien und moderne Methoden aktiv in Projekte ein und treibst technologische Standards im Team voran.
+Profil
+Was du mitbringst
+
+Erfahrung: mindestens 5 Jahre Erfahrung als Fullstack Developer, IT-Consultant oder Solution Architect, mit nachweisbarer Verantwortung für komplexe, skalierbare Lösungen.
+Must-have: .NET, Blazor oder Angular sowie Azure Cloud Services. Erfahrung mit Microservices, CI/CD und Containerisierung (Docker/Kubernetes).
+Nice-to-have: Kenntnisse in KI-Services (OpenAI, Azure Cognitive Services), Semantic Kernel, Cosmos DB oder Data Lake.
+Studium: abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder eine vergleichbare Qualifikation.
+Mindset: du denkst strategisch, triffst Architekturentscheidungen eigenständig und übernimmst gerne Verantwortung für das technische Wachstum des Teams.
+Sprache: sehr gute Deutschkenntnisse in Wort und Schrift.
+Wir bieten
+Was dich begeistern wird:
+Bei NOVAZOON erwartet dich nicht nur ein Arbeitsplatz, sondern eine inspirierende Umgebung, in der du deine Ideen einbringen, dich weiterentwickeln und mit einem hochmotivierten Team an innovativen Projekten arbeiten kannst. Wir legen großen Wert darauf, dass du dich wohlfühlst und bieten dir zahlreiche Vorteile, die deine Karriere und dein persönliches Wachstum unterstützen.
+
+Modern@work: Laptop, Smartphone, höhenverstellbare Schreibtische – bei uns selbstverständlich. Mit deinem eigenen Firmen-Account bei Amazon kannst du dir selbst weiteres Equipment bestellen, was du zum Arbeiten benötigst.
+Talent@work: Du wirst dich jährlich in für dich ausgewählten Webinaren, Schulungen, Konferenzen, etc. weiterentwickeln. Wir legen großen Wert auf internen Know-how-Transfer und Lernen voneinander. Unser Tech-Team trifft sich regelmäßig zu internen Hackathons, um sich immer wieder zu challengen.
+Teamspirit@work: Wir nehmen uns Zeit – für Weiterentwicklung, Kreativität und Wissensvermittlung bei regelmäßigen Team-Tagen. Der Spaßfaktor darf auch nicht fehlen: unser jährlicher Team-Ausflug ist legendär.
+Money@work: Attraktives Gehalt, Zuschuss zur betrieblichen Altersvorsorge, ein monatlicher Zuschuss über die SpenditCard sowie Rabatte über die Corporate Benefits Plattform.
+Mobility@work: JobRad für dich und deine Familie sowie Parkmöglichkeiten in der hauseigenen Tiefgarage – mitten in der Karlsruher Innenstadt.
+Offices@work: Das Headquarter in Karlsruhe ist mitten in der Innenstadt und super erreichbar. Unser Office in Stuttgart Degerloch ist ein Teambüro im Frameworx. Bei uns entscheidest du, ob du remote bei dir zu Hause oder im Office arbeiten möchtest. Natürlich in Vereinbarkeit mit deinen Kundenterminen.
+
+Bist du das fehlende Puzzle-Teil in unserem Team? Dann werde ein Novazoonie. Bewirb dich, mit allem, was du hast: Lebenslauf, Zeugnisse, etc. und teile uns deinen Gehaltswunsch sowie deinen Start-Termin mit. Wir freuen uns auf dich.
+
+Predicted salary
+65.000€ - 75.000€ gross/year(full-time estimate)
