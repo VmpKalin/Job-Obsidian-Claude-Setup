@@ -1,0 +1,33 @@
+https://careers.example-acme-cloud.test/jobs/backend-engineer-1042
+
+# Backend Engineer — Acme Cloud
+
+**Company:** Acme Cloud (fictional, sample data)
+**Location:** Remote (worldwide)
+**Type:** Full-time
+
+## About the role
+Acme Cloud runs a platform that helps small teams deploy and monitor their
+apps. We're looking for a Backend Engineer to help grow our API and background
+processing systems.
+
+## What you'll do
+- Design and build REST APIs used by thousands of developers.
+- Improve reliability of our background job pipeline.
+- Write tests and take part in code reviews.
+
+## What we're looking for
+- 2+ years building backend services.
+- Strong **Python** (we use FastAPI); JavaScript/Node.js a plus.
+- Comfortable with PostgreSQL and Docker.
+- Cares about clean, tested code.
+
+## Nice to have
+- Experience with cloud infrastructure (AWS).
+- Interest in developer tooling.
+
+## Language
+English is our working language. **No other spoken language is required.**
+
+## Perks
+Remote-first, flexible hours, learning budget.
